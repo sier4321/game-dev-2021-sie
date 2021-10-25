@@ -14,4 +14,25 @@ Version 0.0.1
 
 <h2 align=center>t1a09-function-by-sierra-html</h2>
 
-<a herf="http
+<a herf="http://www.wschool.com/js/js_funstion.asp">
+  Good reference to Javascript functions</a><br>
+
+Funtions are used to sensidly organzie code. Then they are "Called" elsewhere.
+Information can also be passed to functions (that's more advanced).
+
+<h4> Example Function code </h4>
+<pre>
+function myGrabNumber(){
+   return parseInt(document.getElementById('myText01').value)
+}
+</pre>
+
+<h4> Example working code</h4>
+
+
+<input type=text id="myText01" Value="3"><br>
+
+<input type=button value="Function Example" onClick="{
+   document.getElementById('myDiv01').innerHTML = myExampleFunction()
+}">
+<div id=">...</div>
