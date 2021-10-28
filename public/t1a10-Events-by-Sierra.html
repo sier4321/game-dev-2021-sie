@@ -79,3 +79,20 @@ function myFunction() {
 </body>
 </html>
 
+<form id="myForm">
+  <input type="text" id="myInput">
+</form>
+
+<script>
+var x = document.getElementById("myForm");
+x.addEventListener("focusin", myFocusFunction);
+x.addEventListener("focusout", myBlurFunction);
+
+function myFocusFunction() {
+  document.getElementById("myInput").style.backgroundColor = "yellow";
+}
+
+function myBlurFunction() {
+  document.getElementById("myInput").style.backgroundColor = "";
+}
+</script>
