@@ -37,26 +37,19 @@ Max Array Entry: <input type=text id="myText01" value="3"><br>
 <br>
      
 You do at least 7 other arrays:<br>
-<!DOCTYPE html>
-<html>
-<body>
+<button onclick="myFunction()">Try it</button>
 
-<h1 onclick="this.innerHTML =  myArray[0] = 'Fred' myArray[1] = 'Mary' myArray[2] = 'zizzy''">
-Click on this text!</h1>
-</body>
-</html>
-<!DOCTYPE html>
-<html>
-<body>
+<p id="demo"></p>
 
-<h1 onclick="this.innerHTML = myArray[1] = 'Mary''">
-Click on this text!</h1>
-</body>
-</html><!DOCTYPE html>
-<html>
-<body>
+<script>
+const fruits = ["Banana", "Orange", "Apple"];
+document.getElementById("demo").innerHTML = fruits;
 
-<h1 onclick="this.innerHTML = myArray[2] = 'zizzy''">
-Click on this text!</h1>
+function myFunction() {
+  fruits[fruits.length] = "Lemon";
+  document.getElementById("demo").innerHTML = fruits;
+}
+</script>
+
 </body>
 </html>
