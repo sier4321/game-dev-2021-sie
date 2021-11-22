@@ -49,12 +49,12 @@ You use loops and variables to make fast fancy drawings <br><br>
    myContext.fillStyle = 'black';
 }"><br><br>
 
-<input type=button value="blackRect(10, 10, 50, 50)" onclick="{
-   myContext.blackRect(10, 10, 50, 50);
+<input type=button value="fillRect(0, 0, 150, 75)" 
+       onclick="{ myContext.blackRect(10, 10, 50, 50);
 }">
 
 <input type=button value="Clear all" onclick="{
-   myContext.blackRect(0, 0, myCanvas.width, myCanvas.height);
+   myContext.fillRect(0, 0, myCanvas.width, myCanvas.height);
 }"><br><br>
 
 <canvas id="myCoolTag" width="1000" height="600" style="border:1px solid #000000;"></canvas>
