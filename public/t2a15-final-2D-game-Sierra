@@ -88,50 +88,8 @@
 			        Game Making Software
 			    </h1>
 			    <div class="noscriptinner">
-				    <p>
-					    Construct 3 lets you <a href="https://www.construct.net/en" target="_blank" title="Create Games">make your own game</a> from your browser - no coding required! Create your first game from scratch with Construct 3's free game engine.
-				    </p>
-				    <p>
-					    Learn to build your own games with hundreds of <a href="https://www.construct.net/en/tutorials" target="_blank" title="Learn to make games">game maker tutorials</a>. Construct 3 also comes bundled with lots of templates and example game files.
-				    </p>
-				    <p>
-					    Create games rapidly and prototype new game ideas quickly. No tool lets you create games faster and easier than Construct 3.  You currently have Javascript disabled, if you want to start building your own games with Construct 3 you'll need to enable it then refresh this page!
-				    </p>
-				    <ul itemscope itemtype="http://www.schema.org/SiteNavigationElement">
-					    <li itemprop="name">
-						    <a itemprop="url" href="https://www.construct.net/en" target="_blank" title="Build your own games online">
-							    Game Making Software
 						    </a>
-					    </li>
-					    <li itemprop="name">
-						    <a itemprop="url" href="https://www.construct.net/en/make-games/games-editor" target="_blank" title="Game dev features in Construct 3">
-							    Construct 3 Features
-						    </a>
-					    </li>
-					    <li itemprop="name">
-						    <a itemprop="url" href="https://www.construct.net/en/make-games/buy-construct-3" target="_blank" title="Purchase Construct 3 game making software">
-							    Buy Construct 3
-						    </a>
-					    </li>
-					    <li itemprop="name">
-						    <a itemprop="url" href="https://www.construct.net/en/forum" target="_blank" title="Chat to other game makers">
-							    Game Making Community
-						    </a>
-					    </li>
-					    <li itemprop="name">
-						    <a itemprop="url" href="https://www.construct.net/en/tutorials" target="_blank" title="Learn to make games">
-							    Game Dev Tutorials
-						    </a>
-					    </li>
-					    <li itemprop="name">
-						    <a itemprop="url" href="https://www.construct.net/en/make-games/education" target="_blank" title="Game building in education and schools">
-							    Game Making in Education
-						    </a>
-					    </li>
-				    </ul>
-                    
-                    <h2>What's New in r268</h2>
-                    <p>Release r268 was published on 19 Oct, 2021</p>
+					 
                     
 			        <p>It's a new stable release of Construct 3! If you're updating from the last stable release <a onclick="C3Web.trackOutboundLink('Outlink', 'Click', 'https://www.construct.net/en/make-games/releases/stable/r260');" href="https://www.construct.net/en/make-games/releases/stable/r260" target="_blank" rel="noopener" title="Make your own games" class="extern">r260</a>, then this update includes changes from <a onclick="C3Web.trackOutboundLink('Outlink', 'Click', 'https://www.construct.net/en/make-games/releases/beta/r261');" href="https://www.construct.net/en/make-games/releases/beta/r261" target="_blank" rel="noopener" title="Make your own games" class="extern">r261</a>, <a onclick="C3Web.trackOutboundLink('Outlink', 'Click', 'https://www.construct.net/en/make-games/releases/beta/r262');" href="https://www.construct.net/en/make-games/releases/beta/r262" target="_blank" rel="noopener" title="Make your own games" class="extern">r262</a>, <a onclick="C3Web.trackOutboundLink('Outlink', 'Click', 'https://www.construct.net/en/make-games/releases/beta/r263');" href="https://www.construct.net/en/make-games/releases/beta/r263" target="_blank" rel="noopener" title="Make your own games" class="extern">r263</a>, <a onclick="C3Web.trackOutboundLink('Outlink', 'Click', 'https://www.construct.net/en/make-games/releases/beta/r264');" href="https://www.construct.net/en/make-games/releases/beta/r264" target="_blank" rel="noopener" title="Make your own games" class="extern">r264</a>, <a onclick="C3Web.trackOutboundLink('Outlink', 'Click', 'https://www.construct.net/en/make-games/releases/beta/r265');" href="https://www.construct.net/en/make-games/releases/beta/r265" target="_blank" rel="noopener" title="Make your own games" class="extern">r265</a>, <a onclick="C3Web.trackOutboundLink('Outlink', 'Click', 'https://www.construct.net/en/make-games/releases/beta/r265-2');" href="https://www.construct.net/en/make-games/releases/beta/r265-2" target="_blank" rel="noopener" title="Make your own games" class="extern">r265.2</a>, <a onclick="C3Web.trackOutboundLink('Outlink', 'Click', 'https://www.construct.net/en/make-games/releases/beta/r266');" href="https://www.construct.net/en/make-games/releases/beta/r266" target="_blank" rel="noopener" title="Make your own games" class="extern">r266</a> and <a onclick="C3Web.trackOutboundLink('Outlink', 'Click', 'https://www.construct.net/en/make-games/releases/beta/r267');" href="https://www.construct.net/en/make-games/releases/beta/r267" target="_blank" rel="noopener" title="Make your own games" class="extern">r267</a>. Highlights include:
 </p>
