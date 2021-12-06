@@ -66,30 +66,7 @@
 						    </a>
 					 
                     
-			      
-
-<p>• A new <strong>3D Camera</strong> plugin making a wide range of 3D game styles now possible in Construct! See the video for some examples of this.
-</p>
-
-<p>• Support for <strong>pointer lock</strong> and <strong>orthographic projections</strong>, both useful with 3D Camera
-</p>
-
-<p>• Timelines now support <strong>value tracks</strong>, allowing controlling numbers like volume level along a timeline
-</p>
-
-<p>• You can now <strong>import animated image formats</strong> like GIF and APNG in Chrome, Edge &amp; Opera
-</p>
-
-<p>• Updated Android exports using the latest version of Cordova with a modern <em>https</em> scheme, similar to the iOS <em>app</em> scheme that was added previously
-</p>
-
-<p>• Spritesheets now support rotating images 90 degrees, improving memory usage and performance
-</p>
-
-<p>• Lots of new examples - see the 'new' tag on the Start Page for a list!
-</p>
-
-<p>We'll be starting a new beta release update cycle soon. If you'd like to help test it, try the beta release opt-in: choose <em>Notify me about updates for beta releases</em> in Settings. Stay tuned for more updates!</p>
+			     
 
 			    </div>
 		    </div>
