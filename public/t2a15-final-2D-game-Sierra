@@ -61,15 +61,12 @@
 <noscript>
 	    <div class="noscriptcontent">
 		    <div>
-			    <h1>
-			        Game Making Software
-			    </h1>
+			   
 			    <div class="noscriptinner">
 						    </a>
 					 
                     
-			        <p>It's a new stable release of Construct 3! If you're updating from the last stable release <a onclick="C3Web.trackOutboundLink('Outlink', 'Click', 'https://www.construct.net/en/make-games/releases/stable/r260');" href="https://www.construct.net/en/make-games/releases/stable/r260" target="_blank" rel="noopener" title="Make your own games" class="extern">r260</a>, then this update includes changes from <a onclick="C3Web.trackOutboundLink('Outlink', 'Click', 'https://www.construct.net/en/make-games/releases/beta/r261');" href="https://www.construct.net/en/make-games/releases/beta/r261" target="_blank" rel="noopener" title="Make your own games" class="extern">r261</a>, <a onclick="C3Web.trackOutboundLink('Outlink', 'Click', 'https://www.construct.net/en/make-games/releases/beta/r262');" href="https://www.construct.net/en/make-games/releases/beta/r262" target="_blank" rel="noopener" title="Make your own games" class="extern">r262</a>, <a onclick="C3Web.trackOutboundLink('Outlink', 'Click', 'https://www.construct.net/en/make-games/releases/beta/r263');" href="https://www.construct.net/en/make-games/releases/beta/r263" target="_blank" rel="noopener" title="Make your own games" class="extern">r263</a>, <a onclick="C3Web.trackOutboundLink('Outlink', 'Click', 'https://www.construct.net/en/make-games/releases/beta/r264');" href="https://www.construct.net/en/make-games/releases/beta/r264" target="_blank" rel="noopener" title="Make your own games" class="extern">r264</a>, <a onclick="C3Web.trackOutboundLink('Outlink', 'Click', 'https://www.construct.net/en/make-games/releases/beta/r265');" href="https://www.construct.net/en/make-games/releases/beta/r265" target="_blank" rel="noopener" title="Make your own games" class="extern">r265</a>, <a onclick="C3Web.trackOutboundLink('Outlink', 'Click', 'https://www.construct.net/en/make-games/releases/beta/r265-2');" href="https://www.construct.net/en/make-games/releases/beta/r265-2" target="_blank" rel="noopener" title="Make your own games" class="extern">r265.2</a>, <a onclick="C3Web.trackOutboundLink('Outlink', 'Click', 'https://www.construct.net/en/make-games/releases/beta/r266');" href="https://www.construct.net/en/make-games/releases/beta/r266" target="_blank" rel="noopener" title="Make your own games" class="extern">r266</a> and <a onclick="C3Web.trackOutboundLink('Outlink', 'Click', 'https://www.construct.net/en/make-games/releases/beta/r267');" href="https://www.construct.net/en/make-games/releases/beta/r267" target="_blank" rel="noopener" title="Make your own games" class="extern">r267</a>. Highlights include:
-</p>
+			      
 
 <p>• A new <strong>3D Camera</strong> plugin making a wide range of 3D game styles now possible in Construct! See the video for some examples of this.
 </p>
@@ -105,38 +102,7 @@
 	</noscript>
 <script type="application/ld+json">
 {
-    "@context": "http://schema.org",
-    "@type": "WebApplication",
-    "name": "Construct 3 - Make Your Own Game",    
-    "operatingSystem": "All",
-    "browserRequirements": "Requires Javascript and HTML5 support",    
-    "url": "https://editor.construct.net",
-    "screenshot": "https://construct-static.com/images/v958/home/new/hero.png",
-    "description": "Create your own games with Construct 3. No download required & runs in the browser.  Used by tens of thousands of game makers world-wide.",
-    "applicationCategory": "MultimediaApplication",
-    "offers": {
-        "@type": "Offer",
-        "price": "0.00",
-        "priceCurrency": "USD",
-        "name": "Free trial"
-    },
-    "creator": {
-        "@type":"Organization",
-        "url" : "https://www.construct.net",
-        "name" : "Construct",
-        "logo":{
-            "@type":"ImageObject",
-            "url":"https://construct-static.com/images/v958/r/siteicons/construct_v300.png",
-            "width":300,
-            "height":300
-        }
-    },
-    "aggregateRating": {
-        "@type": "AggregateRating",
-        "bestRating": 100,
-        "worstRating": 1,
-        "ratingCount": 7318,
-        "ratingValue": 97
+   
     }
 }
 </script>
