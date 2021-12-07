@@ -14,7 +14,7 @@
 <path class="maskC1" fill-rule="evenodd" d="M187.732 344.397c80.854 37.705 176.963 2.723 214.665-78.13L109.6 129.73c-37.703 80.855-2.724 176.964 78.132 214.665z" clip-rule="evenodd" />
 </clipPath>
 
-<path class="maskC2" clip-path="url(#loadingLogoMaskC1clip)" fill-rule="evenodd" d="M187.732 344.397c80.854 37.705 176.963 2.723 214.665-78.13L109.6 129.73c-37.703 80.855-2.724 176.964 78.132 214.665z" clip-rule="evenodd" />
+<path class="maskC2" fill-rule="evenodd" d="M187.732 344.397c80.854 37.705 176.963 2.723 214.665-78.13L109.6 129.73c-37.703 80.855-2.724 176.964 78.132 214.665z" clip-rule="evenodd" />
 <path class="maskC3" fill-rule="evenodd" d="M187.732 51.6C106.877 89.305 71.897 185.414 109.6 266.268l292.8-136.534C364.696 48.878 268.586 13.898 187.732 51.6z" clip-rule="evenodd" />
 </clipPath>
 </defs>
